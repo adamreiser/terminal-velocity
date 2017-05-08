@@ -11,7 +11,7 @@ use Safe;
 
 my $debug = 0;
 
-my %name_map = ('ev' => 'EVC', 'evo' => 'UTF8EVO', 'fh' => 'FH', 'evn' => 'Nova', 'nova' => 'Nova');
+my %name_map = ('ev' => 'EVC', 'evo' => 'UTF8EVO', 'fh' => 'FH', 'evn' => 'Nova');
 
 my $scenarios = (join(", ", (sort keys %name_map)));
 

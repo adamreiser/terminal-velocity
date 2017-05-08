@@ -12,13 +12,14 @@ This was written to play and practice with Perl. Idiosyncrasies, inconsistencies
 
 ## Usage
 ```
-./ev.pl [SCENARIO] (available scenarios: ev, evn, evo, fh, nova)
+./ev.pl [SCENARIO] (available scenarios: ev, evn, evo, fh)
 ```
 
 Commands are entered as single characters. '?' for help.
 
 ## Screenshots
 ![Levo system](images/levo-system.png)
+
 ![Levo planet](images/levo-planet.png)
 
 ## Security note
